@@ -4,8 +4,16 @@ _Analytics_ is a tool to measure how people engage with your content so you can 
 
 Add one line of code and Analytics will get to work measuring engagement like, how long did someone spend on the page, how far down did they scroll, and more.
 
+![UI Screen Mockup](https://github.com/ssiddhantsharma/Analytics-Pitch/blob/master/Screenshot-2018-11-18-at-13.22.46.png)
 
-Features:
+
+
+![UI Screen Mockup](https://github.com/ssiddhantsharma/Analytics-Pitch/blob/master/shotsnapp-1586287137.867.png)
+
+
+
+
+## Features:
 
 ### Advanced view counting
     - Analytics does it’s best to identify unique users so you can better answer questions like “What % of users who read this content converted?” (instead of % of sessions or % of visits, which are different and imho, less tangible).
